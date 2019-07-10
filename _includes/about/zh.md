@@ -12,9 +12,9 @@
 |     | 💔️           | ❤️ ️                                          | ❤️❤️ ️                                          | ❤️❤️❤️ ️                                      |
 | --- | ------------- | --------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | 😅  | `C#` `VB`     | `flash` `photoshop` <br> `dreamware`             |                                              |                         |
-| 🧐  |               | `javaScript` `css` <br> `jquery` `html`         |                                               |                        |
-| 😏  |               | `shell` `MapReduce` <br> `impala` `Scala` <br> `Spark` | `hadoop` <br> `Storm` `CDH`  |    `Hive`   `habse`   `storm`       |
-| 🤓  | `RabbitMq` `RocketMq` | `Redis`  `Kafka` <br>                    |  ``                                          | `Java` `Mysql`  `Oracle` |
+| 🧐  |               | `javaScript` `css` <br> `jquery` `html`         |                                               |   `docker` `k8s` <br> `prometheus`  `xxl-job`  |
+| 😏  |               | `shell` `MapReduce` <br> `impala` `Scala` <br> `Spark` | `hadoop` `Storm` <br>`CDH`  |    `Hive`   `hbase` <br>  `storm`  `zookeeper`     |
+| 🤓  | `RabbitMq` `RocketMq` | `Redis`  `Kafka` <br>                    |  `spring-boot` <br> `mybatis-plus`           | `Java` `Mysql`  `Oracle` |
 
 > 听过但基本没用过: `Flink` `Perl` `Ruby` `Go` `...`
 
