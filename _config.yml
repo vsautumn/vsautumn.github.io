@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     vsautumn
-zhihu_username:     vsautumn
+weibo_username:     xmeng2019
+zhihu_username:     xmeng-79-56
 github_username:    vsautumn
 #twitter_username:   vsautumn
 #facebook_username:  vsautumn
